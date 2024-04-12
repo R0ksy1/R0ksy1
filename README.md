@@ -18,9 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=R0ksy1&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -35,4 +32,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+-----
+[![](https://visitcount.itsvg.in/api?id=R0ksy1&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
